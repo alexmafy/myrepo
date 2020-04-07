@@ -1,3 +1,3 @@
 # myrepo
 testing my setup
-This is a second line from Rstudio
+This is a third line from Rstudio
